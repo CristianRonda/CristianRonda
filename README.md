@@ -13,53 +13,35 @@
 
 ### Connect with me:
 
-[<img style="margin: 8px; filter: invert(.5);
-    align: left;
-    width: 22px;"  alt="Cristian Ronda.com" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img style="margin: 8px; filter: invert(.5);
-    align: left;
-    width: 22px;" alt="Cristian Ronda | Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
-[<img style="margin: 8px; filter: invert(.5);
-    align: left;
-    width: 22px;" alt="Cristian Ronda | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img style="margin: 8px; filter: invert(.5);
-    align: left;
-    width: 22px;" alt="Cristian Ronda | Twitter" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img style="margin: 8px; filter: invert(.5);
-    align: left;
-    width: 22px;" alt="Cristian Ronda | LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" width="22px" margin="8px"  alt="Cristian Ronda.com" src="https://res.cloudinary.com/dzh1db41l/image/upload/v1612369282/web_plctrn.png" />][website]
+
+[<img align="left" width="22px" margin="8px" alt="Cristian Ronda | Instagram" src="https://res.cloudinary.com/dzh1db41l/image/upload/v1612369282/m_er9gbz.png" />][medium]
+
+[<img align="left" width="22px" margin="8px" alt="Cristian Ronda | Twitter" src="https://res.cloudinary.com/dzh1db41l/image/upload/v1612369441/f_scbalc.png" />][facebook]
+
+[<img align="left" width="22px" margin="8px" alt="Cristian Ronda | Twitter" src="https://res.cloudinary.com/dzh1db41l/image/upload/v1612369282/ig_fegxgg.png" />][instagram]
+
+[<img align="left" width="22px" margin="8px" alt="Cristian Ronda | LinkedIn" src="https://res.cloudinary.com/dzh1db41l/image/upload/v1612369282/in_divkmx.png" />][linkedin]
 
 
 <br />
 
 ### Languages and Tools:
 
-<img style="width: 26px;
-   margin: 4px;" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="Gatsby" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img style="width: 26px;
-   margin: 4px;" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
+<img align="left" width="26px" alt="Visual Studio Code" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" width="26px" alt="HTML5" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
+<img align="left" width="26px" alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
+<img align="left" width="26px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" width="26px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
+<img align="left" width="26px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" width="26px" alt="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
+<img align="left" width="26px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+<img align="left" width="26px" alt="Gatsby" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
+<img align="left" width="26px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img align="left" width="26px" alt="Flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" />
 
 
-<img style="width: 26px;
-   margin: 4px;" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" width="26px" alt="Terminal" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
 <br />
