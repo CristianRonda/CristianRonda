@@ -1,4 +1,4 @@
-### Hi there, I'm Cristian 👋
+****### Hi there, I'm Cristian 👋
 
 
 ## I'm a Developer, food lover and Teacher!!
@@ -34,7 +34,7 @@
 <img align="left" width="26px" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" width="26px" alt="TypeScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 <img align="left" width="26px" alt="Python" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" width="26px" alt="React Native" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" />
+<img align="left" width="64px" alt="Storybook" src="https://res.cloudinary.com/dzh1db41l/image/upload/v1612370061/storybook-1_ihyy5h.svg" />
 <img align="left" width="26px" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" width="26px" alt="Gatsby" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
 <img align="left" width="26px" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
@@ -45,6 +45,15 @@
 
 
 <br />
+
+---
+
+  <summary>GitHub Stats</summary>
+
+  <img align="left" alt="Cristian Ronda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CrisRonda&show_icons=true&hide_border=true" />
+  
+  <img align="left" alt="Cristian Ronda's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisRonda&show_icons=true&hide_border=true&layout=compact" />
+
 <br />
 
 
