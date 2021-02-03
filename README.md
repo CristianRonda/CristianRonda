@@ -1,7 +1,7 @@
 ### Hi there, I'm Cristian 👋
 
 
-## I'm a Developer, food lover and Teacher!!
+## I'm a Developer and food lover!!
 
 - 🔭 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects and speak English like a native person
