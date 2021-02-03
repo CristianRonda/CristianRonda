@@ -1,4 +1,4 @@
-****### Hi there, I'm Cristian 👋
+### Hi there, I'm Cristian 👋
 
 
 ## I'm a Developer, food lover and Teacher!!
