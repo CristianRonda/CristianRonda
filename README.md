@@ -49,6 +49,8 @@
 ---
 
   <summary>GitHub Stats</summary>
+  
+  [My personal Github repository](https://github.com/CrisRonda)
 
   <img align="left" alt="Cristian Ronda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CrisRonda&show_icons=true&hide_border=true" />
   
