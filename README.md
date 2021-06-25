@@ -7,6 +7,7 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects and speak English like a native person
 - ⚡ Fun fact: I love running and playing guitar
 
+
 ### I'm listening 🎧
 
 [<img src="https://spotify-now-playing-nu-brown.vercel.app/api/spotify-playing" alt="Cristian Spotify Playing" width="350" />](https://open.spotify.com/user/criz36)
@@ -46,15 +47,20 @@
 
 <br />
 
+<br />
+
 ---
 
   <summary>GitHub Stats</summary>
   
   [My personal Github repository](https://github.com/CrisRonda)
+  <div>
 
-  <img align="left" alt="Cristian Ronda's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=CrisRonda&show_icons=true&hide_border=true" />
-  
-  <img align="left" alt="Cristian Ronda's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisRonda&show_icons=true&hide_border=true&layout=compact" />
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CrisRonda&layout=compact&card_width=475" alt="CrisRonda's Top Languages" align="left" width="430">
+
+<img src="https://cheesits456-readme-stats.vercel.app/api?username=CrisRonda&count_private=true&show_icons=true&include_all_commits=true" alt="CrisRonda's Top Languages" align="right" width="430">
+
+</div>
 
 <br />
 
