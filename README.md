@@ -56,9 +56,11 @@
   [My personal Github repository](https://github.com/CrisRonda)
   <div>
 
-<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CrisRonda&layout=compact&card_width=475" alt="CrisRonda's Top Languages" align="left" width="430">
+<img src="https://cheesits456-readme-stats.vercel.app/api/top-langs?username=CrisRonda&layout=compact" alt="CrisRonda's Top Languages" >
 
-<img src="https://cheesits456-readme-stats.vercel.app/api?username=CrisRonda&count_private=true&show_icons=true&include_all_commits=true" alt="CrisRonda's Top Languages" align="right" width="430">
+<br />
+  
+<img src="https://cheesits456-readme-stats.vercel.app/api?username=CrisRonda&count_private=true&show_icons=true&include_all_commits=true" alt="CrisRonda's Top Languages"  >
 
 </div>
 
