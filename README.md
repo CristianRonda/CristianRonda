@@ -10,7 +10,7 @@
 
 ### I'm listening 🎧
 
-[<img src="https://spotify-now-playing-nu-brown.vercel.app/api/spotify-playing" alt="Cristian Spotify Playing" width="350" />](https://open.spotify.com/user/criz36)
+[<img src="https://spotify-now-playing-nu-brown.vercel.app/api/spotify-playing" alt="Cristian Spotify Playing" width="350" />](https://open.spotify.com/playlist/51YU3Rq9Rpo7sKzXW2KGtk)
 
 ### Connect with me:
 
